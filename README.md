@@ -1,8 +1,8 @@
 # Landing Page
 
-![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
+![main_image](https://github.com/irrevocablesake/LandingPage/testing_output.png)
 
-This is a Landing Page I created for myself!, to reflect my skillset and on of my areas of interest
+This is a 3D Landing Page / Art Gallery that I created, to reflect my skillset and one of my areas of interest that is "Creative Developer". You can pan around, zoom in / out and move around ~ the objects! 
 
 **Languages:** Javascript, HTML, CSS
 **Frameworks:** React JS, React Three Fiber, Blender, Magica Voxel
